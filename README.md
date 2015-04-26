@@ -9,3 +9,6 @@ yeoman bower
 
 iconos
 satckoverflow survey
+
+Karma - Testacular
+How AngularJS generates docs
