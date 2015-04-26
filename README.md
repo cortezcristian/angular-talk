@@ -5,6 +5,7 @@ ng-talk
 
 anyandgo made with this
 ionic
+[Ionic](https://www.youtube.com/watch?v=ZjPRj2Vp74U)
 [Sample App](https://chrome.google.com/webstore/detail/sopa-de-letras/iaacnmdhklagmfpdjelibinmpfndhikc)
 
 yeoman bower 
@@ -22,6 +23,12 @@ Una app abierta todo el tiempo
 Rendering issues, pestaña del chrome
 Digest Loop
 
+
+Facil de documentar
+http://allenhwkim.tumblr.com/post/92161523693/sigh-angularjs-documentation
+Testeable
+https://gist.github.com/nackjicholson/1cbd083fd74839ed4dfe
+
 Videos
 [Realtime "Eye Candy" with AngularJS](https://www.youtube.com/watch?v=8uj7YSqby7s)
 [Testing with AngularJS - ngToronto Sept 25th 2013](https://www.youtube.com/watch?v=AKwqfHm-3ZQ)
@@ -38,5 +45,16 @@ Chat application with Laravel and Angularjs
 https://www.youtube.com/watch?v=SXDVmAwmux8
 https://github.com/lifeentity/chat-app/tree/master/public/app/scripts/services
 
+[Angular 1.3 by Jeff Cross & Brian Ford at ng-europe 2014](https://www.youtube.com/watch?v=ojMy6m_fcxc)
+who did it?
+
 [Angular 2.0 Core by Igor Minar & Tobias Bosch at ng-europe 2014](https://www.youtube.com/watch?v=gNmWybAyBHI)
+
+
 React+Flux One-way
+http://gurustop.net/blog/2014/12/23/angularjs-1_3-1_x-angularjs-2_0-my-take
+
+- El mundo cambiante de las tecnologias front-end
+- Digest loop
+- Angular 1.3
+- Angular 2.0
