@@ -14,6 +14,10 @@ AngularJS Talk (ng-talk)
 ### Potente
 
 Podes hacer casi cualquier cosa con él.
+Viene bien preparado:
+- 
+
+http://www.cheatography.com/proloser/cheat-sheets/angularjs/
 
 ### Simplifica el trabajo
 
@@ -26,6 +30,7 @@ Provee clases para hacer animaciones.
 ### Esta orientado a tests
 Nos invita a trabajar por capas.
 Y a aplicar unit testing y bdd.
+Tiene componentes como Mocks.
 
 ### Flexible y Extensible
 Puede ser usado con cualquier tecnología de backend
