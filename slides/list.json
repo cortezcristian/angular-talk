@@ -32,8 +32,8 @@
     ],
     [
         "angular-demos.html",
-        "ionic-framework.html",
         "demo-chrome-app.html",
+        "ionic-framework.html",
         "demo-android-app.html"
     ],
     "final.html"
