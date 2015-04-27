@@ -1,10 +1,33 @@
 # angular-talk
-AngularJS Talk
+AngularJS Talk (ng-talk)
 
-ng-talk
+## AngularJS
+
+- [Framework MV*](http://addyosmani.com/blog/short-musings-on-javascript-mv-tech-stacks/)
+- [MVC | MVVM | MVP](https://plus.google.com/+AngularJS/posts/aZNVhj355G2)
+- [Anatomy of a JavaScript MV* Framework](http://www.sitepoint.com/anatomy-javascript-mv-framework/)
+- [9 Things to Consider When Choosing a JavaScript MV* Framework](http://www.neo.com/2014/06/30/9-things-to-consider-when-choosing-a-javascript-mv-framework)
+- Two Way Data Binding
+
+## AngularJS Problem Solving
+
+### Potente
+
+Podes hacer casi cualquier cosa con él.
+
+## Front-end Technologies
+
+### Yeoman + Bower + Grunt
+
+### Jasmine + Karma + Docular
+
+#### Karma
+- Karma - Testacular [GTAC 2013: Karma - Test Runner for JavaScript](https://www.youtube.com/watch?v=YG5DEzaQBIc&feature=youtu.be)
+- Karma - How AngularJS generates docs [JS.everywhere(Europe) 2012: Testacular, the Spectacular JavaScript Test Runner - Vojta Jína](https://www.youtube.com/watch?v=5mHjJ4xf_K0)
+- Karma - Objectives [Slides](http://es.slideshare.net/sebarmeli/karma-js-test-runner)
 
 
-MVC | MVVM | MVP https://plus.google.com/+AngularJS/posts/aZNVhj355G2
+
 
 anyandgo made with this
 ionic
@@ -18,12 +41,7 @@ Es popular
 [](http://stackoverflow.com/research/developer-survey-2015#tech-lang)
 satckoverflow survey
 
-Karma - Testacular
-[GTAC 2013: Karma - Test Runner for JavaScript](https://www.youtube.com/watch?v=YG5DEzaQBIc&feature=youtu.be)
-[JS.everywhere(Europe) 2012: Testacular, the Spectacular JavaScript Test Runner - Vojta Jína](https://www.youtube.com/watch?v=5mHjJ4xf_K0)
-How AngularJS generates docs
 
-http://es.slideshare.net/sebarmeli/karma-js-test-runner
 
 Reasons to Learn
 [Here’s Why You Should Learn AngularJS](http://blog.cbtnuggets.com/2014/05/heres-learn-angularjs/)

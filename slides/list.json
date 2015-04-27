@@ -1,7 +1,10 @@
 [
     "index.html",
     "topics.html",
-    "angular.html",
+    [
+        "angular.html",
+        "javascript-mvstar-frameworks.html"
+    ],
     "learn-angular.html",
     "angular-demos.html",
     [
