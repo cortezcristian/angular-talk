@@ -69,6 +69,13 @@ ionic
 [Ionic](https://www.youtube.com/watch?v=ZjPRj2Vp74U)
 [Sample App](https://chrome.google.com/webstore/detail/sopa-de-letras/iaacnmdhklagmfpdjelibinmpfndhikc)
 
+http://ionicframework.com/docs/guide/publishing.html
+
+https://play.google.com/apps/publish/?dev_acc=00658213462864964901
+
+https://www.youtube.com/watch?v=C-UwOWB9Io4
+
+
 yeoman bower 
 
 iconos

@@ -31,8 +31,11 @@
         "quality-ends.html"
     ],
     [
-        "angular-demos.html"
+        "angular-demos.html",
+        "ionic-framework.html",
+        "demo-chrome-app.html",
+        "demo-android-app.html"
     ],
-    "final.html",
-    "ionic-framework.html"
+    "final.html"
+
 ]
