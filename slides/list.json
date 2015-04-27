@@ -13,8 +13,9 @@
     [
         "quality.html",
         "jasmine.html",
-        "karma.html"
+        "karma.html",
+        "docular.html",
+        "quality-ends.html"
     ],
-    "final.html",
-    "quality-ends.html"
+    "final.html"
 ]
