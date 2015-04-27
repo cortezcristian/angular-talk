@@ -9,7 +9,8 @@
         "bower.html",
         "grunt.html",
         "yeoman.html",
-        "jasmine.html"
+        "jasmine.html",
+        "karma.html"
     ],
-    "karma.html"
+    "final.html"
 ]
