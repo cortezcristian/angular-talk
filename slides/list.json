@@ -8,9 +8,13 @@
         "front-end-technologies.html",
         "bower.html",
         "grunt.html",
-        "yeoman.html",
+        "yeoman.html"
+    ],
+    [
+        "quality.html",
         "jasmine.html",
         "karma.html"
     ],
-    "final.html"
+    "final.html",
+    "quality-ends.html"
 ]

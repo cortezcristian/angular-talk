@@ -20,8 +20,14 @@ satckoverflow survey
 
 Karma - Testacular
 [GTAC 2013: Karma - Test Runner for JavaScript](https://www.youtube.com/watch?v=YG5DEzaQBIc&feature=youtu.be)
+[JS.everywhere(Europe) 2012: Testacular, the Spectacular JavaScript Test Runner - Vojta Jína](https://www.youtube.com/watch?v=5mHjJ4xf_K0)
 How AngularJS generates docs
+
+http://es.slideshare.net/sebarmeli/karma-js-test-runner
+
+Reasons to Learn
 [Here’s Why You Should Learn AngularJS](http://blog.cbtnuggets.com/2014/05/heres-learn-angularjs/)
+
 Una app abierta todo el tiempo
 Rendering issues, pestaña del chrome
 Digest Loop
