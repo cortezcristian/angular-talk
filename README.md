@@ -15,6 +15,35 @@ AngularJS Talk (ng-talk)
 
 Podes hacer casi cualquier cosa con él.
 
+### Simplifica el trabajo
+
+Tiene su propio DigestLoop
+Cuida performance, rendering
+The event loop is augmented a bit with Angular, as Angular provides its own event loop.
+[$Digest Loop](https://www.youtube.com/watch?v=beztKTyW-78)
+Provee clases para hacer animaciones.
+
+### Esta orientado a tests
+Nos invita a trabajar por capas.
+Y a aplicar unit testing y bdd.
+
+### Flexible y Extensible
+Puede ser usado con cualquier tecnología de backend
+Esta bien documentado
+Es compatible con los mayor browsers
+Se puede crear componentes (directivas, modulos, para ser reutilizados)
+
+### Es popular 
+[SatckOverflow Survey](http://stackoverflow.com/research/developer-survey-2015#tech-lang)
+
+### El futuro de angular
+angular 1.2.x
+angular 1.3.x (estable) -> angular 1.4.x
+angular 2.0 2016?
+
+Bienes informacionales
+Tiene espalda
+
 ## Front-end Technologies
 
 ### Yeoman + Bower + Grunt
@@ -37,9 +66,7 @@ ionic
 yeoman bower 
 
 iconos
-Es popular 
-[](http://stackoverflow.com/research/developer-survey-2015#tech-lang)
-satckoverflow survey
+
 
 
 

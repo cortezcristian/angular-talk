@@ -3,7 +3,8 @@
     "topics.html",
     [
         "angular.html",
-        "javascript-mvstar-frameworks.html"
+        "javascript-mvstar-frameworks.html",
+        "mvc-frameworks.html"
     ],
     "learn-angular.html",
     "angular-demos.html",
