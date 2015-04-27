@@ -8,7 +8,8 @@
         "front-end-technologies.html",
         "bower.html",
         "grunt.html",
-        "yeoman.html"
+        "yeoman.html",
+        "yeoman-stack.html"
     ],
     [
         "quality.html",
