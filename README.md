@@ -3,6 +3,9 @@ AngularJS Talk
 
 ng-talk
 
+
+MVC | MVVM | MVP https://plus.google.com/+AngularJS/posts/aZNVhj355G2
+
 anyandgo made with this
 ionic
 [Ionic](https://www.youtube.com/watch?v=ZjPRj2Vp74U)
