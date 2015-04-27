@@ -58,3 +58,6 @@ http://gurustop.net/blog/2014/12/23/angularjs-1_3-1_x-angularjs-2_0-my-take
 - Digest loop
 - Angular 1.3
 - Angular 2.0
+
+React VS Angular
+https://www.codementor.io/reactjs/tutorial/react-vs-angularjs
