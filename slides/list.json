@@ -33,10 +33,10 @@
     [
         "angular-demos.html",
         "demo-web-app.html",
+        "demo-web-app-images.html",
         "demo-chrome-app.html",
         "ionic-framework.html",
         "demo-android-app.html"
     ],
-    "final.html",
-    "demo-web-app-images.html"
+    "final.html"
 ]
