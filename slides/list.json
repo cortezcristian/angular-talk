@@ -6,7 +6,7 @@
         "javascript-mvstar-frameworks.html",
         "mvc-frameworks.html"
     ],
-    [ 
+    [
         "learn-angular.html",
         "feature1.html",
         "feature2.html",
@@ -28,6 +28,10 @@
         "karma.html",
         "docular.html",
         "quality-ends.html"
+    ],
+    [
+        "present-past-future.html",
+        "angular-2.html"
     ],
     "final.html"
 ]
