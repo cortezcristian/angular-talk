@@ -1,1 +1,3 @@
-body .reveal h2 {  }
+body .reveal h1 { text-transform: none; }
+body .reveal h2 { text-transform: none; }
+body .reveal .hide { display: none; }
