@@ -3,5 +3,13 @@
     "topics.html",
     "angular.html",
     "learn-angular.html",
-    "angular-demos.html"
+    "angular-demos.html",
+    [
+        "front-end-technologies.html",
+        "bower.html",
+        "grunt.html",
+        "yeoman.html",
+        "jasmine.html"
+    ],
+    "karma.html"
 ]
