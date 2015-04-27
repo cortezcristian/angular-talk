@@ -37,6 +37,7 @@ Puede ser usado con cualquier tecnología de backend
 Esta bien documentado
 Es compatible con los mayor browsers
 Se puede crear componentes (directivas, modulos, para ser reutilizados)
+Tiene muchos modulos contribuidos.
 
 ### Es popular 
 [SatckOverflow Survey](http://stackoverflow.com/research/developer-survey-2015#tech-lang)

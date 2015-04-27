@@ -6,7 +6,14 @@
         "javascript-mvstar-frameworks.html",
         "mvc-frameworks.html"
     ],
-    "learn-angular.html",
+    [ 
+        "learn-angular.html",
+        "feature1.html",
+        "feature2.html",
+        "feature3.html",
+        "feature4.html",
+        "feature5.html"
+    ],
     "angular-demos.html",
     [
         "front-end-technologies.html",
